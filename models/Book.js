@@ -7,6 +7,10 @@ const Schema = mongoose.Schema;
 // This is similar to a Sequelize model
 const BookSchema = new Schema({
   // `title` is required and of type String
+  bookId: {
+    type: String
+  },
+
   title: {
     type: String,
     required: true
