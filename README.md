@@ -2,7 +2,7 @@
 
 ## Instruction:
 
-- Put in the name of the book that you fish to read.
+- Put in the name of the book that you wish to read.
 - Click search button.
 - The app will give you multiple variation of the books with the same name, just chose the one you wish to read.
 - Click save and search again for another one.
